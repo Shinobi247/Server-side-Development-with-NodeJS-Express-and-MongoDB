@@ -1,0 +1,17 @@
+{
+  "name": "Server-side-Development-with-NodeJS-Express-and-MongoDB",
+  "version": "1.0.0",
+  "description": "```https://www.coursera.org/learn/server-side-nodejs/```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@rahul_github:Shinobi247/Server-side-Development-with-NodeJS-Express-and-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
