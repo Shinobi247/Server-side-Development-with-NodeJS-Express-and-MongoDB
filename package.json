@@ -4,7 +4,8 @@
   "description": "```https://www.coursera.org/learn/server-side-nodejs/```",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index"
+    "start": "nodemon index",
+    "test": ""
   },
   "repository": {
     "type": "git",
